@@ -1,0 +1,10 @@
+1. Nome: speed-light.xls
+
+2. Numero de observações: 200 (100 de cada físico)
+
+3. Variáveis:
+   1. speed: medição da velocidade da luz em km/s (com 299000 subtraído)
+   2. fisico: físico que realizou o experimento
+     -- Michelson
+     -- Eu
+ 
