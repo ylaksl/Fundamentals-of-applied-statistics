@@ -1,0 +1,13 @@
+1. Nome: iris.csv
+
+2. Numero de observações: 150 (50 de cada espécie)
+
+3. Variáveis:
+   1. sepala_comp: comprimento da sépala em cm
+   2. sepala_larg: largura da sépala em cm
+   3. petala_comp: comprimento da pétala em cm
+   4. petala_larg: largura da pétala em cm
+   5. especies: 
+      -- Iris Setosa
+      -- Iris Versicolour
+      -- Iris Virginica
