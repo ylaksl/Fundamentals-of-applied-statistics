@@ -1,0 +1,16 @@
+1. Nome: blackhole.zip
+   
+2. Dados sobre buracos negros de galaxias
+
+3. Numero de observacoes: 46 buracos negros
+
+4. Variaveis:
+   1. logv: logaritmo (base 10) da razao entre a velocidade de dispersao e 200 (km/s)
+   2. elogv: erro associado a logv
+   3. logm: logaritmo (base 10) da massa do burado negro (em relacao a massa do sol)
+   4. elogm: erro associado a logm
+   5. type: tipo da galaxia quanto ao seu formato
+      -- E: eliptica
+      -- S0: lenticular
+      -- S: espiral
+
